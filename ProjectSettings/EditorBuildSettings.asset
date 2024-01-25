@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/SceneChooseSample/Scenes/SceeneChooseScene.unity
+    guid: fbd2231dee4ecf243933a01b04d4dc56
+  - enabled: 1
+    path: Assets/Samples/SceneChooseSample/Scenes/CapsuleScene.unity
+    guid: be7884b571f3558409055b17a0e1d310
+  - enabled: 1
+    path: Assets/Samples/SceneChooseSample/Scenes/CubeScene.unity
+    guid: 038ff7ffb09f9494593c080156fb6609
+  - enabled: 1
+    path: Assets/Samples/SceneChooseSample/Scenes/SphereScene.unity
+    guid: c6b01abbfd602574fb6b41fad9e96b8a
   m_configObjects: {}
