@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ccf5fa0358245d4b8930785aa26e9db, type: 3}
+  m_Name: TreworCharacter
+  m_EditorClassIdentifier: 
+  value:
+    Level: 10
+    Name: 
+    Icon: {fileID: 21300000, guid: 43ad51e043491b94d8f6c62d55ac5ede, type: 3}
+    Prefab: {fileID: 6974646966170845337, guid: 73a06e5da31675f488f8ad352cde6dad, type: 3}
